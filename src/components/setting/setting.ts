@@ -1,11 +1,6 @@
 import { Component } from '@angular/core';
 import { Storage } from '@ionic/storage';
-/**
- * Generated class for the SettingComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 @Component({
   selector: 'setting',
   templateUrl: 'setting.html'

@@ -9,12 +9,7 @@ import { Storage } from '@ionic/storage';
 import { DuaServiceProvider } from '../../providers/dua-service/dua-service';
 import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
 
-/**
- * Generated class for the ExampleDetailComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 @Component({
   selector: 'example-detail',
   templateUrl: 'example-detail.html'
@@ -53,25 +48,19 @@ export class ExampleDetailComponent {
   {
     this.items = this.navParams.get('item');
     this.index = this.navParams.get('index');
-    console.log(this.items);
-    //this.data = this.item.dua;
-    debugger;
+   
     this.loadData(this.index);
-    //this.slides.slideTo(this.index, 500);
-    //this.goToSlide();
+    
   }
   goToSlide() {
     
     this.slides.slideTo(this.index-1, 500);
-    //this.index = this.currentIndex;
     
   }
 
   slideChanged() {
     this.isFavorite = false
    this.currentIndex = this.slides.getActiveIndex();
-   console.log('Current index is', this.currentIndex);
-   //this.index = this.currentIndex;
    this.loadData(this.currentIndex);
    this.isPlay = false;  
 
@@ -170,11 +159,8 @@ loadData(index){
 }
 
 unFavorite(){
-  debugger;
   this.isFavorite = false;
-  //this.favoriteArray.slice(this.duaIndex);
   var i = this.favoriteArray.indexOf(this.index +1);
-  //this.favoriteArray = this.favoriteArray.splice(this.duaIndex, 1)
   if(i != -1) {
     this.favoriteArray.splice(i, 1);
   }
@@ -182,7 +168,6 @@ unFavorite(){
 }
 
 favorite(){
-  debugger;;
   this.favoriteArray.push(this.index + 1);
   this.storage.set('favoriteArrayStore', this.favoriteArray);
   this.isFavorite = true;
@@ -192,7 +177,6 @@ favorite(){
 shareDUA(){  
   this.socialSharing.share(  this.ayah + "  " + this.translation , "Example in Quran "  , null);
 }
-
 
  playDua(){
   
@@ -205,9 +189,9 @@ shareDUA(){
            this.isPlay = true
           this.file = this.media.create(this.audioFilePath);
 
-          // to listen to plugin events:
+         
 
-          this.file.onStatusUpdate.subscribe(status => console.log(status)); // fires when file status changes
+          this.file.onStatusUpdate.subscribe(status => console.log(status)); 
 
           this.file.onSuccess.subscribe(() => { console.log('Action is successful'); 
   
@@ -224,11 +208,9 @@ shareDUA(){
           );
           } );
 
-          // play the file
+          
           this.file.play();
       }
-   // this.isPlay = !this.isPlay;
-  
 
    }
 
@@ -243,13 +225,7 @@ shareDUA(){
 
       }
 
-      
-
   }
-
-
-
-
 
 }
 

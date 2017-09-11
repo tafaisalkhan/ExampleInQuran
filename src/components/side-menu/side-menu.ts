@@ -4,12 +4,7 @@ import { SettingComponent } from "../setting/setting";
 import { AboutComponent } from "../about/about";
 import { FavoriteComponent } from "../favorite/favorite";
 import { ExampleListComponent } from "../example-list/example-list";
-/**
- * Generated class for the SideMenuComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 @Component({
   selector: 'side-menu',
   templateUrl: 'side-menu.html'

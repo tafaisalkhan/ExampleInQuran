@@ -5,12 +5,7 @@ import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
 import { AdMobFree, AdMobFreeBannerConfig } from '@ionic-native/admob-free';
 import { Storage } from '@ionic/storage';
 import { ExampleDetailComponent } from "../example-detail/example-detail";
-/**
- * Generated class for the ExampleListComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 @Component({
   selector: 'example-list',
   templateUrl: 'example-list.html'
@@ -33,21 +28,7 @@ export class ExampleListComponent {
 }
 
 loadDua(){
-  //check for local storage
-  //this.storage.set('quranExample', null);
-  //this.duaServiceProvider.getExampleList()  
-  //.subscribe(data => {
-    
-  //  console.log(data);
-   
 
-  //},
-//(err) => {console.log(err);
-
-
- // }
- // );
- //this.storage.set('quranExample', null);
  this.storage.get('quranExample').then((val) => {
     if (val != null){
       this.dataArray =  val;

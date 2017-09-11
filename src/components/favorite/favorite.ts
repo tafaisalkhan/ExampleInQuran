@@ -9,12 +9,6 @@ import { DuaServiceProvider } from '../../providers/dua-service/dua-service';
 import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
 
 
-/**
- * Generated class for the FavoriteComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
 @Component({
   selector: 'favorite',
   templateUrl: 'favorite.html'
@@ -58,11 +52,8 @@ export class FavoriteComponent {
 
       this.loadDataSlideData(currentIndex);
       this.isPlay = false;
-      //this.file.pause();
-      //this.file.release()
 
     }
-
 
     loadDataFromFile(){
       try{
@@ -94,26 +85,6 @@ export class FavoriteComponent {
         }
         });
 
-/*
-
-          this.storage.get('anbiya').then((val) => {
-            if (val != null){
-                for(let item of val){
-                  for(let dua of item.dua){
-                    for(let aya in dua.aya){
-                      //let temp = this.favoriteArray.filter(favId => favId == dua.aya[aya].index);
-                      //if(temp.lenght > 0){
-                        this.tmpDuaListArray.push(dua.aya[aya]);
-                      //}
-
-                  }
-                }
-              }
-            }
-            this.loadData();
-          });
-
-*/
 
       }
       catch(e){
@@ -154,11 +125,9 @@ export class FavoriteComponent {
     }
 
     unFavorite(){
-      debugger;
       this.isFavorite = false;
-      //this.favoriteArray.slice(this.duaIndex);
+     
       var i = this.favoriteArray.indexOf(this.index);
-      //this.favoriteArray = this.favoriteArray.splice(this.duaIndex, 1)
       if(i != -1) {
         this.favoriteArray.splice(i, 1);
       }
@@ -239,10 +208,6 @@ export class FavoriteComponent {
         this.ayah = this.duaListArray[index].arabic;
         this.hasAudio = this.duaListArray[index].hasAudio;
 
-        //this.duaIndex = duaListArray this.duaData[index].aya[0].index;
-
-
-
         this.bismillAllah = this.duaListArray[index].bismial;
         this.filename = this.duaListArray[index].mp3_file_path;
 
@@ -263,16 +228,15 @@ export class FavoriteComponent {
 
             this.file = this.media.create('assets/mp3/'+this.filename);
 
-            // to listen to plugin events:
-
-            this.file.onStatusUpdate.subscribe(status => console.log(status)); // fires when file status changes
+           
+            this.file.onStatusUpdate.subscribe(status => console.log(status)); 
 
             this.file.onSuccess.subscribe(() => { console.log('Action is successful'); this.isPlay = false}
               );
 
             this.file.onError.subscribe(error => { console.log('Error!', error); this.isPlay = false} );
 
-            // play the file
+            
             this.file.play();
         }
        this.isPlay = !this.isPlay;
@@ -288,9 +252,7 @@ export class FavoriteComponent {
           }
           catch(e){
 
-          }
-
-       
+          } 
 
         }
 
@@ -303,8 +265,5 @@ export class FavoriteComponent {
     console.log(data);
     this.isPlay = !this.isPlay;
   }
-
-
-
 
   }
