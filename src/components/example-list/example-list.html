@@ -1,0 +1,62 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu" ></ion-icon>
+    </button>
+    <ion-title>Example In Quran </ion-title>
+
+    <ion-buttons end>
+
+
+    </ion-buttons>
+
+  </ion-navbar>
+
+
+</ion-header>
+
+            <ion-content padding style="padding: 0px; background-color:burlywood" >
+                <ion-card  style="background-color: #64B5F6; text-align: center;" *ngIf="dataArray.length == 0">
+                    
+                    <ion-spinner icon="spiral"></ion-spinner>
+                    
+                <ion-card-content   [ngClass]="platform=='small'? 'small-font' : 'large-font'">
+               
+                 </ion-card-content>
+                    
+                        </ion-card>
+
+                     <!--   <ion-card>
+                            
+                              
+                            
+                              <ion-card-content>
+                               <div [ngClass]="platform=='small'? 'list-header-small-font' : 'list-header-large-font'"> Chapter No/ Verse No
+                               </div>
+                              </ion-card-content>
+                            
+                            </ion-card>
+                          -->
+              <ion-grid >
+                            
+                  <ion-row>
+                    <ion-col *ngFor="let item of dataArray; let i = index" col-6>
+                      <ion-card  (click)="itemTapped($event, item, i)" (tab)="itemTapped($event, item, i)">
+                          <ion-item [ngClass]="platform=='small'? 'detail-small-font' : 'detail-large-font'">
+                              
+                            Ch:{{item.chapter_no}}
+                                 
+                                <div   clear item-end> Vr:{{item.aya_no}}</div>
+                              </ion-item>
+                        <ion-card-content>
+                          <!-- Add card content here! -->
+                          <div style="margin-top:10px" [ngClass]="platform=='small'? 'list-small-font' : 'list-large-font'">
+                         {{item.short_title}}
+                        </div>
+                        </ion-card-content>
+                      </ion-card>
+                    </ion-col>
+                  </ion-row>
+                
+              </ion-grid>
+</ion-content>
