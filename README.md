@@ -1,8 +1,12 @@
 
-This project build on ionic framwork and use to show  Example in Quran 
+This is a Quraic Example on Ionic 3. 
 
-To run use these command on Teminal
+How to use this project
 
-sudo npm install
+With the Ionic CLI:
 
-sudo ionic serve
+$ sudo npm install
+$ sudo ionic serve
+
+$ ionic cordova platform add ios
+$ ionic cordova run ios
