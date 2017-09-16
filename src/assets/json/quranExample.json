@@ -23,9 +23,9 @@
                 "turkish": "Onlarin durumu, bir ates yakanin durumu gibidir. (Ates) çevresini aydinlatir aydinlatmaz Allah onlarin (gözlerinin) nurlarini giderdi ve onlari karanliklar içinde birakti, artik görmezler",
                 "russian" :"Они подобны тому, кто разжег огонь. Когда же огонь озарил все вокруг него, Аллах лишил их света и оставил их в темноте, где они ничего не видят.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_1.mp3",
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/017.mp3?alt=media&token=9d09513b-72ca-4644-b625-a0c18c7cc7bc",
                 "chapter_name": "Al-Baqarah",
-                "hasAudio": false,
+                "hasAudio": true,
                 "chapter_no": 2,
                 "favorite":0
             
@@ -45,9 +45,9 @@
                 "turkish": "Muhakkak ki Allah bir sivri sinegi, hatta daha üstününü misal getirmekten çekinmez. Iman edenler bilirler ki, o süphesiz haktir, Rabb'lerindandir. Ama küfre saplananlar: 'Allah böyle bir misal ile ne demek istedi?' derler. Allah onunla birçoklarini sasirtir, yine onunla birçoklarini yola getirir. Onunla ancak o fasiklari sasirtir.",
                 "russian": "О те, которые уверовали! Не делайте ваши подаяния тщетными своими попреками и оскорблениями, подобно тому, кто расходует свое имущество ради показухи и не веруют при этом в Аллаха и в Последний день. Притчей о нем является притча о гладкой скале, покрытой слоем земли. Но вот выпал ливень и оставил скалу голой. Они не властны ни над чем из того, что приобрели. Аллах не ведет прямым путем неверующих людей.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_2.mp3",
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/026.mp3?alt=media&token=c407a71d-c01d-414c-a830-35ea85f792c9",
                 "chapter_name": "Al-Baqarah",
-                "hasAudio": false,
+                "hasAudio": true,
                 "chapter_no": 2,
                 "favorite":0
              
@@ -56,27 +56,6 @@
             
                 "index": 3,
                 "aya_no": "261",
-                "short_title": "َّّ يَاأَيُّهَا الَّذِينَ آمَنُو ... ",
-                "arabic":  ". يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِّمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
-                "english": "O you who have believed, do not invalidate your charities with reminders or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allah and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allah does not guide the disbelieving people.",
-                "spanish": "¡Creyentes! No malogréis vuestras limosnas alardeando de ellas o agraviando, como quien gasta su hacienda para ser visto de los hombres, sin creer en Alá ni en el último Día. Ese tal es semejante a una roca cubierta de tierra. Cae sobre ella un aguacero y la deja desnuda. No pueden esperar nada por lo que han merecido. Alá no dirige al pueblo infiel.  ",
-                "chinses": "為主道而施捨財產的人，譬如（一個農夫，播下）一粒谷種，發出七穗，每穗結一百顆谷粒。真主加倍地報酬他所意欲的人，真主是寬大的，是全知的。  ",
-                "japanses": "アッラーの道のために自分の所有するものを施す者を例えてみれば，ちょうど1粒が7穂を付け，1穂に百粒を付けるのと同じである。アッラーは御心に適う者に，倍加してくださる。アッラーは厚施にして全知であられる",
-                "urdu": "اے ایمان والو! اپنی خیرات کو احسان جتا کر اور ایذا پہنچا کر برباد نہ کرو! جس طرح وه شخص جو اپنا مال لوگوں کے دکھاوے کے لئے خرچ کرے اور نہ اللہ تعالیٰ پر ایمان رکھے نہ قیامت پر، اس کی مثال اس صاف پتھر کی طرح ہے جس پر تھوڑی سی مٹی ہو پھر اس پر زوردار مینہ برسے اور وه اسے بالکل صاف اور سخت چھوڑ دے، ان ریاکاروں کو اپنی کمائی میں سے کوئی چیز ہاتھ نہیں لگتی اور اللہ تعالیٰ کافروں کی قوم کو (سیدھی) راه نہیں دکھاتا",
-                "turkish": "Ey iman edenler! Sadakalarinizi, basa kakmak, gönül kirmakla bosa gidermeyin. O adam gibi ki, insanlara gösteris için malini dagitir da ne Allah'a inanir, ne ahiret gününe. Artik onun hâli, bir kayanin hâline benzer ki, üzerinde biraz toprak varmis, derken siddetli bir sagnak inmis de onu yalçin bir kaya halinde birakivermis. Öyle kimseler, kazandiklarindan hiçbir sey elde edemezler. Allah, kâfirler toplulugunu dogru yola iletmez.",
-                "russian": "Притчей о тех, кто расходует свое имущество на пути Аллаха, является притча о зерне, из которого выросло семь колосьев, и в каждом колосе - по сто зерен. Аллах увеличивает награду, кому пожелает. Аллах - Объемлющий, Знающий.",
-                "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_3.mp3", 
-                "chapter_name": "Al-Baqarah",
-                "hasAudio": false,
-                "chapter_no": 2,
-                "favorite":0
-             
-          },
-          {
-            
-                "index": 4,
-                "aya_no": "264",
                 "short_title": "َّّ مَّثَلُ الَّذِينَ يُنفِقُونَ ... ",
                 "arabic":  ". مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
                 "english": "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills. And Allah is all-Encompassing and Knowing.",
@@ -87,13 +66,35 @@
                 "turkish": "Mallarini Allah yolunda harcayanlarin durumu, bir tanenin durumu gibidir ki, yedi basak bitirmis ve her basakta yüz tane var. Allah, diledigine daha da katlar. Allah'in rahmeti genistir. O, her seyi bilir.",
                 "russian": "Притчей о тех, кто расходует свое имущество на пути Аллаха, является притча о зерне, из которого выросло семь колосьев, и в каждом колосе - по сто зерен. Аллах увеличивает награду, кому пожелает. Аллах - Объемлющий, Знающий.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_3.mp3", 
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/264.mp3?alt=media&token=7d3f874e-e88b-4062-9811-dc058b8d8f8b", 
                 "chapter_name": "Al-Baqarah",
-                "hasAudio": false,
+                "hasAudio": true,
                 "chapter_no": 2,
                 "favorite":0
              
           },
+          {
+            
+                "index": 4    ,
+                "aya_no": "264",
+                "short_title": "َّّ يَاأَيُّهَا الَّذِينَ آمَنُو ... ",
+                "arabic":  ". يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِّمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+                "english": "O you who have believed, do not invalidate your charities with reminders or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allah and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allah does not guide the disbelieving people.",
+                "spanish": "¡Creyentes! No malogréis vuestras limosnas alardeando de ellas o agraviando, como quien gasta su hacienda para ser visto de los hombres, sin creer en Alá ni en el último Día. Ese tal es semejante a una roca cubierta de tierra. Cae sobre ella un aguacero y la deja desnuda. No pueden esperar nada por lo que han merecido. Alá no dirige al pueblo infiel.  ",
+                "chinses": "為主道而施捨財產的人，譬如（一個農夫，播下）一粒谷種，發出七穗，每穗結一百顆谷粒。真主加倍地報酬他所意欲的人，真主是寬大的，是全知的。  ",
+                "japanses": "アッラーの道のために自分の所有するものを施す者を例えてみれば，ちょうど1粒が7穂を付け，1穂に百粒を付けるのと同じである。アッラーは御心に適う者に，倍加してくださる。アッラーは厚施にして全知であられる",
+                "urdu": "اے ایمان والو! اپنی خیرات کو احسان جتا کر اور ایذا پہنچا کر برباد نہ کرو! جس طرح وه شخص جو اپنا مال لوگوں کے دکھاوے کے لئے خرچ کرے اور نہ اللہ تعالیٰ پر ایمان رکھے نہ قیامت پر، اس کی مثال اس صاف پتھر کی طرح ہے جس پر تھوڑی سی مٹی ہو پھر اس پر زوردار مینہ برسے اور وه اسے بالکل صاف اور سخت چھوڑ دے، ان ریاکاروں کو اپنی کمائی میں سے کوئی چیز ہاتھ نہیں لگتی اور اللہ تعالیٰ کافروں کی قوم کو (سیدھی) راه نہیں دکھاتا",
+                "turkish": "Ey iman edenler! Sadakalarinizi, basa kakmak, gönül kirmakla bosa gidermeyin. O adam gibi ki, insanlara gösteris için malini dagitir da ne Allah'a inanir, ne ahiret gününe. Artik onun hâli, bir kayanin hâline benzer ki, üzerinde biraz toprak varmis, derken siddetli bir sagnak inmis de onu yalçin bir kaya halinde birakivermis. Öyle kimseler, kazandiklarindan hiçbir sey elde edemezler. Allah, kâfirler toplulugunu dogru yola iletmez.",
+                "russian": "Притчей о тех, кто расходует свое имущество на пути Аллаха, является притча о зерне, из которого выросло семь колосьев, и в каждом колосе - по сто зерен. Аллах увеличивает награду, кому пожелает. Аллах - Объемлющий, Знающий.",
+                "bismial": "بسم الله الرحمن الرحيم",
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/264.mp3?alt=media&token=7d3f874e-e88b-4062-9811-dc058b8d8f8b", 
+                "chapter_name": "Al-Baqarah",
+                "hasAudio": true,
+                "chapter_no": 2,
+                "favorite":0
+             
+          },
+         
           {
              
                 "index": 5,
@@ -108,9 +109,9 @@
                 "turkish": "Allah'in rizasini aramak, kendilerini veya kendilerinden bir kismini Allah yolunda sabit kilmak için mallarini Allah yolunda harcayanlarin hâli ise, bir tepedeki güzel bir bahçenin hâline benzer ki, ona kuvvetli bir sagnak düsmüs de yemislerini iki kat vermistir. Böyle bir bahçeye yagmur düsmese bile mutlaka bir çisenti vardir. Allah, yaptiklarinizi görür.",
                 "russian": "Притчей о тех, которые расходуют свое имущество, чтобы снискать довольство Аллаха и укрепить себя, является притча о саде на холме. Если его оросит ливень, он приносит плоды вдвойне. Если же его не оросит ливень, то ему бывает достаточно моросящего дождя. Аллах видит то, что вы совершаете.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_4.mp3",
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/265_1.mp3?alt=media&token=8240d868-ec61-41a0-b7a7-fdaa9ab7c236",
                 "chapter_name": "Al-Baqarahh",
-                "hasAudio": false,
+                "hasAudio": true,
                 "chapter_no": 2,
                 "favorite":0
              
@@ -129,8 +130,8 @@
                 "turkish": "Hiç biriniz ister mi ki, kendisinin hurmalik ve üzümlüklerden bir bahçesi olsun, altinda irmaklar aksin, içinde her türlü ürünü bulunsun da, kendi üzerine de ihtiyarlik çökmüs ve elleri ermez, güçleri yetmez küçük, zayif çocuklari olsun. Derken ona atesli bir bora isabet ediversin de o bahçe yaniversin. Iste Allah, âyetlerini size böylece açikliyor. Umulur ki, düsünürsünüz.",
                 "russian": "Захочет ли кто-нибудь из вас, если у него будет сад из финиковых пальм и виноградника, в котором текут реки и растут всякие плоды, чтобы его сад был поражен огненным вихрем и сгорел, когда его постигнет старость, а его дети будут еще слабы? Так Аллах разъясняет вам знамения, - быть может, вы поразмыслите.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_5.mp3",
-                "hasAudio": false,
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/266.mp3?alt=media&token=de33d930-7c9e-4586-b5d7-f15afff99402",
+                "hasAudio": true,
                 "chapter_name": "Al-Baqarahh",
                 "chapter_no": 2,
                 "favorite":0
@@ -150,8 +151,8 @@
                "turkish": "Riba (faiz) yiyen kimseler, seytan çarpan kimse nasil kalkarsa ancak öyle kalkarlar. Bu ceza onlara, 'alisveris de faiz gibidir' demeleri yüzündendir. Oysa Allah, alisverisi helal, faizi de haram kilmistir. Bundan böyle her kim, Rabbinden kendisine gelen bir ögüt üzerine faizcilige son verirse, geçmiste olanlar kendisine ve hakkindaki hüküm de Allah'a kalmistir. Her kim de yeniden faize dönerse iste onlar cehennem ehlidirler ve orada süresiz kalacaklardir.",
                "russian": "Те, которые пожирают лихву, восстанут, как восстает тот, кого сатана поверг своим прикосновением. Это - потому, что они говорили: 'Воистину, торговля подобна лихоимству'. Но Аллах дозволил торговлю и запретил лихоимство. Если кто-нибудь из них после того, как к нему явится предостережение от Аллаха, прекратит, то ему будет прощено то, что было прежде, и его дело будет в распоряжении Аллаха. А кто вернется к этому, те станут обитателями Огня, в котором они пребудут вечно.",
                "bismial": "بسم الله الرحمن الرحيم",
-               "mp3_file_path": "nooh_5.mp3",
-               "hasAudio": false,
+               "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/275.mp3?alt=media&token=06e0dbf1-1361-46ee-97cc-b3eb5eb11f34",
+               "hasAudio": true,
                "chapter_name": "Al-Baqarahh",
                "chapter_no": 2,
                "favorite":0
@@ -170,8 +171,8 @@
                 "turkish": "Bizim âyetlerimizi yalanlayan ve onlara inanmaya tenezzül etmeyenler var ya, iste onlara gögün kapilari açilmayacak ve deve (veya halat) igne deliginden geçinceye kadar onlar cennete giremeyeceklerdir. Iste suçlulari böyle cezalandiririz.",
                 "russian": "Воистину, не откроются врата небесные для тех, кто считал ложью Наши знамения и превозносился над ними. Они не войдут в Рай, пока верблюд не пройдет сквозь игольное ушко. Так Мы воздаем грешникам.",
                 "bismial": "بسم الله الرحمن الرحيم",
-                "mp3_file_path": "nooh_6.mp3",
-                "hasAudio": false,
+                "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/041.mp3?alt=media&token=8da95297-d5cb-44f0-bc44-2c3446c9df2d",
+                "hasAudio": true,
                 "chapter_name": "Al-Araf",
                 "chapter_no": 7,
                 "favorite":0
@@ -190,9 +191,9 @@
             "turkish": "Onlara, kendisine âyetlerimizi sundugumuz o adamin kissasini da anlat; âyetlerden siyrilip çikti, derken onu seytan arkasina takti, en sonunda da helak olanlardan oldu. Ve eger dileseydik onu o âyetlerle yüceltirdik, fakat o alçakliga saplandi kaldi ve kendi keyfinin ardina düstü. Artik onun ibret verici hali o köpegin haline benzer ki, üzerine varsan da dilini uzatir solur, biraksan da solur. Iste bu, âyetlerimizi inkâr eden kavmin misalidir. Bu kissayi iyice anlat, belki biraz düsünürler.",
             "russian": "Прочти им историю о том, кому Мы даровали Наши знамения, а он отбросил их. Сатана последовал за ним, и он стал заблудшим. Если бы Мы пожелали, то возвысили бы его посредством этого. Однако он приник к земле и стал потакать своим желаниям. Он подобен собаке: если ты прогоняешь ее, она высовывает язык, и если ты оставишь ее в покое, она тоже высовывает язык. Такова притча о тех, которые считают ложью Наши знамения. Рассказывай эти истории, - быть может, они призадумаются.",
             "bismial": "بسم الله الرحمن الرحيم",
-            "mp3_file_path": "nooh_6.mp3",
+            "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/mix_44s%20(audio-joiner.com).mp3?alt=media&token=ff90375e-c39f-45ad-b8e0-602b6d75fdfa",
             "chapter_name": "Al-Araf",
-            "hasAudio": false,
+            "hasAudio": true,
             "chapter_no": 7,
             "favorite":0
         
@@ -210,9 +211,9 @@
               "turkish": "Dünya hayatinin misali söyledir: Gökten indirdigimiz su ile, insanlarin ve hayvanlarin yedigi bitkiler birbirine karismistir. Nihayet yeryüzü süslerini takinip süslendigi ve sahipleri kendilerini ona gücü yeter sandiklari bir sirada, geceleyin veya gündüzün, ona emrimiz gelivermistir, ansizin ona öyle bir tirpan ativermisiz de sanki bir gün önce orada hiçbir senlik yokmus gibi oluvermistir. Düsünen bir kavim için âyetlerimizi iste böyle açiklariz.",
               "russian": "Мирская жизнь подобна воде, которую Мы ниспосылаем с неба и благодаря которой (или с которой) смешиваются земные растения, идущие в пищу людям и животным. Когда же земля покрывается убранством и приукрашается, а ее жители полагают, что они властны над ней, Наше повеление постигает ее ночью или днем. Мы превращаем ее в жнивье, словно еще вчера она не изобиловала. Так Мы разъясняем знамения для людей размышляющих.",
               "bismial": "بسم الله الرحمن الرحيم",
-              "mp3_file_path": "nooh_6.mp3",
+              "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/025.mp3?alt=media&token=02f796bc-48c0-44b0-b814-be8434b96762",
               "chapter_name": "Surat Yūnus",
-              "hasAudio": false,
+              "hasAudio": true,
               "chapter_no": 10,
               "favorite":0
           
@@ -230,9 +231,9 @@
               "turkish": "Rabblerini inkâr edenlerin durumu tipki firtinali bir günde rüzgarin siddetle savurdugu bir küle benzer. Kazandiklarindan hiçbir seyi elde edemezler. Iste asil uzak sapiklik budur. ",
               "russian": "Деяния тех, кто не уверовал в своего Господа, подобны пеплу, над которым пронесся сильный ветер в ветреный день. Они не смогут распоряжаться ничем из того, что приобрели. Это и есть глубокое заблуждение.",
               "bismial": "بسم الله الرحمن الرحيم",
-              "mp3_file_path": "nooh_6.mp3",
+              "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/019.mp3?alt=media&token=d7a6f3fc-2161-43a7-95b6-3137c67c8fe3",
               "chapter_name": "Surat 'Ibrāhīm",
-              "hasAudio": false,
+              "hasAudio": true,
               "chapter_no": 14,
               "favorite":0
 
@@ -251,9 +252,9 @@
               "turkish": "Görmedin mi? Allah nasil bir misal verdi. Güzel bir söz, kökü (yerde) sabit, dallari gökte olan güzel bir agaç gibidir. (O agaç) Rabbinin izniyle her zaman meyve verir. Ögüt alsinlar diye Allah insanlara böyle misaller verir.",
               "russian": "Разве ты не видишь, как Аллах приводит притчи? Прекрасное слово подобно прекрасному дереву, корни которого прочны, а ветви восходят к небу. Оно плодоносит каждый миг с дозволения своего Господа. Аллах приводит людям притчи, - быть может, они помянут назидание.",
               "bismial": "بسم الله الرحمن الرحيم",
-              "mp3_file_path": "nooh_6.mp3",
+              "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/mix_34s%20(audio-joiner.com).mp3?alt=media&token=2b939665-bcf3-4d5c-ad1e-2c4e1d79265e",
               "chapter_name": "Surat 'Ibrāhīm",
-              "hasAudio": false,
+              "hasAudio": true,
               "chapter_no": 14,
               "favorite":0
 
@@ -271,9 +272,9 @@
             "turkish": "Kötü sözün durumu da, yerden koparilmis, kökü olmayan kötü bir agaca benzer. ",
             "russian": "А скверное слово подобно скверному дереву, которое можно вырвать с поверхности земли, ибо нет у него прочности.",
             "bismial": "بسم الله الرحمن الرحيم",
-            "mp3_file_path": "nooh_6.mp3",
+            "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/027.mp3?alt=media&token=5e784ce7-c6f0-45f7-998b-6efb93ea9240",
             "chapter_name": "Surat 'Ibrāhīm",
-            "hasAudio": false,
+            "hasAudio": true,
             "chapter_no": 14,
             "favorite":0
 
@@ -291,9 +292,9 @@
           "turkish": "Allah, hiçbir seye gücü yetmeyen, baskasinin mali olmus bir köle ile, kendisine güzel bir rizik verilen ve o rizikdan gizli ve açik olarak harcayan hür bir insani misal verdi. Hiç bunlar esit olur mu? Bütün hamd Allah'a mahsustur. Dogrusu insanlarin çogu bilmezler. ",
           "russian": "Аллах привел притчу о рабе, который принадлежит другому и совершенно не обладает властью, и человеке, которому Мы даровали прекрасный удел и который расходует его тайно и открыто. Равны ли они? Хвала Аллаху! Но большая часть людей не знает этого.",
           "bismial": "بسم الله الرحمن الرحيم",
-          "mp3_file_path": "nooh_6.mp3",
+          "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/076.mp3?alt=media&token=51fbd1e2-ef2c-49ad-b486-3587e5c57762",
           "chapter_name": "Surat An-Naĥl",
-          "hasAudio": false,
+          "hasAudio": true,
           "chapter_no":16,
           "favorite":0
 
@@ -312,36 +313,17 @@
           "turkish": "Allah su iki adami da misal verdi: Bunlardan biri dilsizdir, hiçbir seye gücü yetmez; efendisine bir yüktür. Onu nereye gönderse bir hayir getiremez. Simdi, bu adamla, adaletle emreden ve dogru yolda bulunan adam esit olur mu?",
           "russian": "Аллах также привел притчу о двух мужах, один из которых - немой, ни на что не способен и обременяет своего господина. Куда бы его ни послали, он не приносит добра. Разве он равен тому, кто отдает справедливые приказы и следует прямым путем?",
           "bismial": "بسم الله الرحمن الرحيم",
-          "mp3_file_path": "nooh_6.mp3",
+          "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/077.mp3?alt=media&token=9bf13693-61c4-4a3b-b307-6064544c3893",
           "chapter_name": "Surat An-Naĥl",
-          "hasAudio": false,
+          "hasAudio": true,
           "chapter_no":16,
           "favorite":0
 
 },
-{
-        "index": 16,
-        "aya_no": "92",
-        "short_title": "وَلَا تَكُونُوا كَالَّتِيْ ... ",
-        "arabic":  "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ أَنكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
-        "english": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.",
-        "spanish": "No hagáis como aquélla que deshacía de nuevo el hilo que había hilado fuertemente. Utilizáis vuestros juramentos para engañaros so pretexto de que una comunidad es más fuerte que otra. Alá no hace más que probaros con ello. El día de la Resurreción ha de mostraros aquello en que discrepabais.",
-        "chinses": "你們不要像那個婦人，她把紡織得很結實的線又分拆成若干縷；你們以盟誓為互相欺詐的手段，因為這一族比那一族還要富庶。真主只以此事考驗你們。復活日，他必為你們闡明你們所爭論的是非。",
-        "japanses": "丈夫に紡いだ後その撚りをも戻し，ばらばらに解す婦人のようであってはならない。一族が（外の）一族よりも，数多くなったために，あなたがたの間で，誓いを裏切る道具にしてはならない。アッラーは，それであなたがたを，試みられただけである。審判の日にあなたがたの異論に就いて，かれはあなたがたに必ず（其実を）明らかになされる。",
-        "urdu": "اور اس عورت کی طرح نہ ہو جاؤ جس نے اپنا سوت مضبوط کاتنے کے بعد ٹکڑے ٹکڑے کرکے توڑ ڈاﻻ، کہ تم اپنی قسموں کو آپس کے مکر کا باعﺚ ٹھراؤ، اس لیے کہ ایک گروه دوسرے گروه سے بڑھا چڑھا ہوجائے۔ بات صرف یہی ہے کہ اس عہد سے اللہ تمہیں آزما رہا ہے۔ یقیناً اللہ تعالیٰ تمہارے لیے قیامت کے دن ہر اس چیز کو کھول کر بیان کر دے گا جس میں تم اختلاف کر رہے تھے",
-        "turkish": "Bir ümmet, diger bir ümmetten (sayica ve malca) daha çok oldugu için, yeminlerinizi aranizda aldatma vasitasi yaparak, ipligini saglamca egirdikten sonra onu söküp bozmaya çalisan kadin gibi olmayin. Allah sizi bununla imtihan eder ve süphesiz hakkinda ihtilaf ettiginiz seyleri kiyamet günü size mutlaka açiklayacaktir.",
-        "russian": "Не уподобляйтесь той женщине, которая распустила свою пряжу после того, как скрепила нити. Вы обращаете свои клятвы в средство обмана, когда одни из вас оказываются сильнее и многочисленнее других. Таким образом Аллах подвергает вас испытанию. А в День воскресения Он непременно разъяснит вам то, в чем вы расходились во мнениях.",
-        "bismial": "بسم الله الرحمن الرحيم",
-        "mp3_file_path": "nooh_6.mp3",
-        "chapter_name": "Surat An-Naĥl",
-        "hasAudio": false,
-        "chapter_no":16,
-        "favorite":0
 
-},
 {
-      "index": 17,
-      "aya_no": "111",
+      "index": 16,
+      "aya_no": "92",
       "short_title": "وَلَا تَكُونُوا كَالَّتِيْ ... ",
       "arabic":  "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ أَنكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
       "english": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.",
@@ -352,15 +334,15 @@
       "turkish": "Bir ümmet, diger bir ümmetten (sayica ve malca) daha çok oldugu için, yeminlerinizi aranizda aldatma vasitasi yaparak, ipligini saglamca egirdikten sonra onu söküp bozmaya çalisan kadin gibi olmayin. Allah sizi bununla imtihan eder ve süphesiz hakkinda ihtilaf ettiginiz seyleri kiyamet günü size mutlaka açiklayacaktir.",
       "russian": "Не уподобляйтесь той женщине, которая распустила свою пряжу после того, как скрепила нити. Вы обращаете свои клятвы в средство обмана, когда одни из вас оказываются сильнее и многочисленнее других. Таким образом Аллах подвергает вас испытанию. А в День воскресения Он непременно разъяснит вам то, в чем вы расходились во мнениях.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/093.mp3?alt=media&token=ed7f4973-f09f-4eeb-906d-804f3fb662f7",
       "chapter_name": "Surat An-Naĥl",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":16,
       "favorite":0
 
 },
 {
-      "index": 18,
+      "index": 17,
       "aya_no": "45",
       "short_title": "وَضَرَبَ اللَّهُ مَثَلًا ...",
       "arabic":  "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
@@ -372,15 +354,15 @@
       "turkish": "Allah bir sehri misal olarak verdi: Bu sehir güvenli, huzurlu idi, Oraya her yerden rizki bol bol geliyordu. Ne var ki onlar Allah'in nimetlerine karsi nankörlük ettiler. Allah da onlara, yaptiklari isler yüzünden açlik ve korku elbisesini (felâketini) tattirdi.",
       "russian": "Аллах привел в качестве притчи селение, которое пребывало в безопасности и покое (Мекку). Они обретали свой удел в изобилии отовсюду, но не благодарили Аллаха за эти блага, и тогда Аллах облек их в одеяние голода и страха за то, что они творили.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/046.mp3?alt=media&token=82db5b89-fb3c-4355-87ca-f237270f5879",
       "chapter_name": "Surat Al-Kahf",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":18,
       "favorite":0
 
 },
 {
-      "index": 19,
+      "index": 18,
       "aya_no": "73",
       "short_title": "يَاأَيُّهَا النَّاسُ ضُرِبَ ... ",
       "arabic":  "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ ۚ إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ لَن يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ ۖ وَإِن يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
@@ -392,15 +374,15 @@
       "turkish": "Ey insanlar! Bir misal verilmektedir, simdi ona iyi kulak verin: Sizin Allah'i birakip taptiklariniz bir araya gelseler, bir sinek bile yaratamayacaklardir. Sinek onlardan bir sey kapsa onu kurtaramazlar. Isteyen de, istenen de âcizdir.",
       "russian": "О люди! Приводится притча, послушайте же ее. Воистину, те, кому вы поклоняетесь помимо Аллаха, не сотворят и мухи, даже если они объединятся для этого. Если же муха заберет у них что-нибудь, они не смогут отобрать у нее это. Слаб тот, кто добивается, и тот, от кого он добивается!",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/074.mp3?alt=media&token=99888ed9-6cfd-4a13-93f2-cad1e48d4cf3",
       "chapter_name": "Surat Al-Ĥaj",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":22,
       "favorite":0
 
 },
 {
-      "index": 20,
+      "index": 19,
       "aya_no": "41",
       "short_title": "مَثَلُ الَّذِينَ اتَّخَذُوا ... ",
       "arabic":  "مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
@@ -412,15 +394,15 @@
       "turkish": "Allah'tan baska dost edinenlerin durumu, kendine yuva yapan örümcegin durumu gibidir. Halbuki, evlerin en çürügü süphesiz örümcek yuvasidir. Keske bilselerdi.",
       "russian": "Те, которые взяли себе покровителей и помощников помимо Аллаха, подобны пауку, соткавшему себе жилище. Воистину, самое непрочное жилище - это жилище паука. Если бы они только знали!",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/042.mp3?alt=media&token=c6288f29-766f-41a5-8222-375ca5712629",
       "chapter_name": "Surat Al-`Ankabūt",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":29,
       "favorite":0
 
 },
 {
-      "index": 21,
+      "index": 20,
       "aya_no": "28",
       "short_title": "ضَرَبَ لَكُم مَّثَلًا مِّنْ ...",
       "arabic":  "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ",
@@ -432,16 +414,16 @@
       "turkish": "Allah, size kendinizden bir misâl verdi: Hiç size rizik olarak verdigimiz seylerde elleriniz altindaki kölelerinizden ortaklariniz bulunur da onlarla siz esit olur, aranizda birbirinizi saydiginiz gibi, onlari da sayar misiniz? Iste biz, düsünecek bir kavim için âyetleri böyle açikliyoruz.",
       "russian": "Он привел вам притчу о вас самих. Есть ли среди невольников, которыми овладели ваши десницы, совладельцы того, чем Мы наделили вас, которые имеют с вами одинаковые права на это и которых вы опасаетесь так, как опасаетесь друг друга? Так Мы разъясняем знамения для людей разумеющих.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/029%20(1).mp3?alt=media&token=9d4cb9e3-a840-4035-9f88-74110b7d60cf",
       "chapter_name": "Surat Ar-Rūm",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":30,
       "favorite":0
 
 },
 
 {
-      "index": 22,
+      "index": 21,
       "aya_no": "24",
       "short_title": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ ...",
       "arabic":  "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا",
@@ -453,15 +435,15 @@
       "turkish": "Onlar Kur'an'i düsünmüyorlar mi? Yoksa kalplerinin üzerinde kilitleri mi var?",
       "russian": "Неужели они не размышляют над Кораном? Или же на их сердцах замки?",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/025(1).mp3?alt=media&token=ce956256-f901-4cbc-806a-7f0f1f0cb191",
       "chapter_name": "Surat Al-`Ankabūt",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":47,
       "favorite":0
 
 },
 {
-      "index": 23,
+      "index": 22,
       "aya_no": "24",
       "short_title": "ُّمُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ ...",
       "arabic":  "مُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ ۚ وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
@@ -473,15 +455,15 @@
       "turkish": "Muhammed Allah'in elçisidir. Onun yaninda bulunanlar da kâfirlere karsi çetin, kendi aralarinda merhametlidirler. Onlari rükûa varirken secde ederken görürsün. Allah'tan lütuf ve riza isterler. Yüzlerinde secdelerin izinden nisanlari vardir. Bu, onlarin Tevrat'taki vasiflaridir. Incil'deki vasiflari da söyledir: Onlar filizini yarip çikarmis, gittikçe onu kuvvetlendirerek kalinlasmis, gövdesi üzerine dikilmis bir ekine benzerler ki bu, ziraatçilarin da hosuna gider. Allah böylece onlari çogaltip kuvvetlendirmekle kâfirleri öfkelendirir. Allah inanip iyi isler yapanlara magfiret ve büyük bir mükâfat vaad etmistir.",
       "russian": "Мухаммад - Посланник Аллаха. Те, которые вместе с ним, суровы к неверующим и милостивы между собой. Ты видишь, как они кланяются и падают ниц, стремясь к милости от Аллаха и довольству. Их признаком являются следы от земных поклонов на их лицах. Так они представлены в Таурате (Торе). В Инджиле (Евангелии) же они представлены посевом, на котором вырос росток. Он укрепил его, и тот стал толстым и выпрямился на своем стебле, восхищая сеятелей. Аллах привел эту притчу для того, чтобы привести ими в ярость неверующих. Аллах обещал тем из них, которые уверовали и совершали праведные деяния, прощение и великую награду.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/030.mp3?alt=media&token=44f0bbde-f5ad-46a8-b343-c3e9cb18c248",
       "chapter_name": "Surat Al-Fatĥ",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":48,
       "favorite":0
 
 },
 {
-      "index": 24,
+      "index": 23,
       "aya_no": "21",
       "short_title": "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ ... ",
       "arabic":  "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
@@ -493,15 +475,15 @@
       "turkish": "Biz bu Kur'ân'i bir daga indirseydik, Allah'in korkusundan onu bas egmis, parça, parça olmus görürdün. Bu misalleri düsünsünler diye insanlara veriyoruz.",
       "russian": "Если бы Мы ниспослали этот Коран на гору, то ты увидел бы, как она смиренно раскалывается от страха перед Аллахом. Такие притчи Мы приводим людям для того, чтобы они поразмыслили.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/022.mp3?alt=media&token=1d01bca9-ad41-4e35-82a7-11f93243d2d7",
       "chapter_name": "Surat Al-Ĥashr",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":59,
       "favorite":0
 
 },
 {
-      "index": 25,
+      "index": 24,
       "aya_no": "10",
       "short_title": "وَضَرَبَ اللَّهُ مَثَلًا ...",
       "arabic":  "ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ",
@@ -513,15 +495,15 @@
       "turkish": "Allah, inkâr edenlere, Nuh'un karisi ile Lut'un karisini misal verdi. Bu ikisi, kullarimizdan iki salih kulun (nikahi) altinda idiler, onlara hiyanet ettiler. (Kocalari,) Allah'tan hiçbir seyi onlardan savamadi. (Onlara): 'Haydi girenlerle birlikte siz de atese girin!' denildi.",
       "russian": "Аллах привел в качестве примера о неверующих жену Нуха (Ноя) и жену Лута (Лота). Обе были замужем за рабами из числа Наших праведных рабов. Они предали своих мужей, и те не спасли их от Аллаха. Им было сказано: 'Войдите в Огонь вместе с теми, кто входит туда'.",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/011.mp3?alt=media&token=7f4338fb-bb2b-4f26-b244-00b99873280d",
       "chapter_name": "Surat At-Taĥrīm",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":66,
       "favorite":0
 
 },
 {
-      "index": 26,
+      "index": 25,
       "aya_no": "11",
       "short_title": "وَضَرَبَ اللَّهُ مَثَلًا ...",
       "arabic":  "وَضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَنَجِّنِي مِن فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
@@ -533,15 +515,15 @@
       "turkish": "Allah, inananlara da Firavun'un karisini örnek gösterdi. O söyle demisti: 'Rabbim! Bana yaninda cennetin içinde bir ev yap, beni Firavun'dan ve onun (kötü) isinden kurtar. Ve beni su zalim toplumdan kurtar!'",
       "russian": "Аллах привел в качестве примера о верующих жену Фараона. Вот она сказала: 'Господи! Спаси меня от Фараона и его деяний! Возведи для меня дом в Раю возле Тебя и спаси меня от несправедливых людей!",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/012.mp3?alt=media&token=f70950b4-61c1-43bd-bed2-2524c3b98346",
       "chapter_name": "Surat At-Taĥrīm",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":66,
       "favorite":0
 
 },
 {
-      "index": 27,
+      "index": 26,
       "aya_no": "30",
       "short_title": "ُِقُلْ أَرَأَيْتُمْ إِنْ ... ",
       "arabic":  "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ",
@@ -553,9 +535,9 @@
       "turkish": "De ki: 'Baksaniza, eger suyunuz çekilse, size kim bir akarsu getirebilir?",
       "russian": "Скажи: 'Как вы думаете, если ваша вода уйдет под землю, то кто дарует вам родниковую воду?",
       "bismial": "بسم الله الرحمن الرحيم",
-      "mp3_file_path": "nooh_6.mp3",
+      "mp3_file_path": "https://firebasestorage.googleapis.com/v0/b/example-in-quran.appspot.com/o/031.mp3?alt=media&token=772b7d31-f8e4-4742-9074-dc2fdd284764",
       "chapter_name": "Surat Al-Mulk",
-      "hasAudio": false,
+      "hasAudio": true,
       "chapter_no":67,
       "favorite":0
 

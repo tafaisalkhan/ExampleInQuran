@@ -23,7 +23,8 @@ import { DuaServiceProvider } from '../providers/dua-service/dua-service';
 import { Media, MediaObject } from '@ionic-native/media';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {AngularFireModule} from 'angularfire2';
-
+import { FileTransfer, FileUploadOptions, FileTransferObject } from '@ionic-native/file-transfer';
+import { File } from '@ionic-native/file';
 
 const firebaseConfig = {
   apiKey: "AIzaSyCLVKNpSZS_UOyLawYSdCfg_ofQ7C9HCrM",
@@ -49,7 +50,7 @@ const firebaseConfig = {
   imports: [
     BrowserModule,
     FormsModule,
-     HttpModule,
+    HttpModule,
     JsonpModule,
     AngularFireDatabaseModule,
     AngularFireModule.initializeApp(firebaseConfig),
@@ -75,6 +76,8 @@ const firebaseConfig = {
     AdMobFree,
     SocialSharing,
     Toast,
+    File,
+    FileTransfer,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     DuaConstantProvider,
     DuaServiceProvider

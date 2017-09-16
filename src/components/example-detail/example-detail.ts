@@ -8,7 +8,8 @@ import { Observable } from 'rxjs/Observable';
 import { Storage } from '@ionic/storage';
 import { DuaServiceProvider } from '../../providers/dua-service/dua-service';
 import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
-
+import { FileTransfer, FileUploadOptions, FileTransferObject } from '@ionic-native/file-transfer';
+import { File } from '@ionic-native/file';
 
 @Component({
   selector: 'example-detail',
@@ -44,12 +45,15 @@ export class ExampleDetailComponent {
   hasAudio:boolean = false;
   title: string= "";
 
-  constructor(private toast: Toast, private duaServiceProvider: DuaServiceProvider, private nativeAudio: NativeAudio, private media: Media, public navParams: NavParams, public actionSheetCtrl: ActionSheetController, private storage: Storage, private socialSharing: SocialSharing, private duaConstantProvider: DuaConstantProvider)
+
+  
+  constructor(private transfer: FileTransfer, private varFile: File, private toast: Toast, private duaServiceProvider: DuaServiceProvider, private nativeAudio: NativeAudio, private media: Media, public navParams: NavParams, public actionSheetCtrl: ActionSheetController, private storage: Storage, private socialSharing: SocialSharing, private duaConstantProvider: DuaConstantProvider)
   {
     this.items = this.navParams.get('item');
     this.index = this.navParams.get('index');
    
     this.loadData(this.index);
+    
     
   }
   goToSlide() {
@@ -175,7 +179,7 @@ favorite(){
 }
 
 shareDUA(){  
-  this.socialSharing.share(  this.ayah + "  " + this.translation , "Example in Quran "  , null);
+  this.socialSharing.share(  this.ayah + "  " + this.translation , "Example in Quran "  , null); 
 }
 
  playDua(){
@@ -187,7 +191,23 @@ shareDUA(){
     }
     else{
            this.isPlay = true
-          this.file = this.media.create(this.audioFilePath);
+
+          
+
+           const url =this.audioFilePath;
+           const fileTransfer: FileTransferObject = this.transfer.create();
+           try{ 
+            this.file = this.media.create(this.varFile.dataDirectory+ this.index + '.mp3');
+           }
+           catch(ex){
+             //const url =  this.items[this.index].mp3_file_path;
+             
+          
+            console.log("path download: "+ this.varFile.dataDirectory);
+           }
+          
+           
+         // this.file = this.media.create(this.audioFilePath);
 
          
 
@@ -195,17 +215,24 @@ shareDUA(){
 
           this.file.onSuccess.subscribe(() => { console.log('Action is successful'); 
   
-          this.isPlay = true
-        }
+            this.isPlay = false
+               }
             );
 
           this.file.onError.subscribe(error => { console.log('Error!', error); 
-          this.toast.show(`Network not available`, '5000', 'center').subscribe(
+          this.toast.show(`Downloading  `, '2000', 'center').subscribe(
             toast => {
               console.log(toast);
               this.isPlay = false
             }
           );
+
+          fileTransfer.download(url, this.varFile.dataDirectory + this.index + '.mp3').then((entry) => {
+            console.log('download complete: ' + entry.toURL());
+            this.file = this.media.create(this.varFile.dataDirectory+ this.index + '.mp3');
+          }, (error) => {
+            console.log('download error: ' + this.varFile.dataDirectory + '.mp3' + ' url: ' + url );
+          });
           } );
 
           

@@ -36,20 +36,20 @@ loadDua(){
     }
     else
     {
-        //this.duaServiceProvider.getExampleList()
-        this.duaServiceProvider.getQuranExample()
+        this.duaServiceProvider.getExampleList()
+       //this.duaServiceProvider.getQuranExample()
         .subscribe(data => {
-            //this.dataArray = data[0].example;
-            //this.version = data[0].version;
-            //console.log(this.dataArray);
-            //this.storage.set('quranExample', this.dataArray);
-            //this.storage.set('version', data[0].version);
+            this.dataArray = data[0].example;
+            this.version = data[0].version;
+            console.log(this.dataArray);
+            this.storage.set('quranExample', this.dataArray);
+            this.storage.set('version', data[0].version);
             
-            this.dataArray = data.Quran.example;
+            /*this.dataArray = data.Quran.example;
             this.version = data.Quran.version;
             console.log(this.dataArray);
             this.storage.set('quranExample', this.dataArray);
-            this.storage.set('version', data.version);
+            this.storage.set('version', data.version);*/
             debugger;
 
           },
@@ -62,27 +62,27 @@ loadDua(){
   });
 
   this.storage.get('version').then((val) => {
-    if (val != null){
+    //if (val != null){
       this.version =  val;
-      //this.duaServiceProvider.getExampleList()
-      this.duaServiceProvider.getQuranExample()
+      this.duaServiceProvider.getExampleList()
+      //this.duaServiceProvider.getQuranExample()
       .subscribe(data => {
-      /*  if (this.version != data[0].version){
+        if (this.version != data[0].version){
           this.dataArray = data[0].example;
           this.version =  data[0].version;
           console.log(this.dataArray);
           this.storage.set('quranExample', this.dataArray);
           this.storage.set('version', data[0].version);
           debugger;
-        }*/
-        if (this.version != data.Quran.version){
+        }
+       /* if (this.version != data.Quran.version){
           this.dataArray = data.Quran.example;
           this.version =  data.Quran.version;
           console.log(this.dataArray);
           this.storage.set('quranExample', this.dataArray);
           this.storage.set('version', data.Quran.version);
           debugger;
-        }
+        }*/
          
 
         },
@@ -92,7 +92,7 @@ loadDua(){
         }
         );
       
-    }
+   // }
    
   });
 
